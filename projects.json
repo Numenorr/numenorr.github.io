@@ -16,7 +16,7 @@
         "tech": "HTML + CSS",
         "github": "https://github.com/Numenorr/FEM-NewsHomePage",
         "liveDemo": "https://numenorr.github.io/FEM-NewsHomePage/",
-        "thumb": "../photos/news.jpg"
+        "thumb": "https://raw.githubusercontent.com/Numenorr/numenorr.github.io/main/photos/news.jpg"
       },
       {
         "id": "triulthx2aflmbq",
@@ -24,7 +24,7 @@
         "tech": "HTML + CSS",
         "github": "https://github.com/Numenorr/FEM-resultsComponent",
         "liveDemo": "https://numenorr.github.io/FEM-resultsComponent/",
-        "thumb": "../photos/results.jpg"
+        "thumb": "https://raw.githubusercontent.com/Numenorr/numenorr.github.io/main/photos/results.jpg"
       },
       {
         "id": "i1is790qjop78q3",
@@ -32,7 +32,7 @@
         "tech": "HTML + CSS",
         "github": "https://github.com/Numenorr/imobiliaria-landingPage",
         "liveDemo": "https://numenorr.github.io/imobiliaria-landingPage/",
-        "thumb": "../photos/imobili.png"
+        "thumb": "https://raw.githubusercontent.com/Numenorr/numenorr.github.io/main/photos/imobili.png"
       }
     ]
   }
